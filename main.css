@@ -3,3 +3,10 @@ h1 {
     text-align: center;
 font-size: 100px;
 }
+body {
+    background-image: url("http://media2.picsearch.com/is?j_tosH2kMbvRFxVPD4R2dSxc6qaA0ZiEymXmJcH9oZs&height=255");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
