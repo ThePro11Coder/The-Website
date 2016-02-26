@@ -10,3 +10,8 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
+a  {
+    color: white;
+    text-align center;
+    font-size: 50px;
+}
